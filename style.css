@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.underline {
+  border: 2px solid #09dcfb;
+  width: 25%;
+  margin: auto;
+}
+
+.title {    
+  text-align: center;
+}
+
+article{
+  border-radius: 50px;
+  background: #e0e0e0;
+  box-shadow:  20px 20px 49px #bebebe,
+               -20px -20px 49px #ffffff;
+}
+
+.imagen {
+  width: 200px;
+  height: 200px;
+  border: 2px solid #09dcfb;
+  margin-top: 1rem;
+  background-color: #fff;
+}
+
+#author {
+  margin-top: 1rem;
+  font-size: 2rem;
+  color: #09dcfb;
+}
+
+#job {
+  margin-top: 1rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.info{
+  width: 200px;
+  overflow: hidden;
+}
+
+
+
